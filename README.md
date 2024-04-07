@@ -42,6 +42,6 @@ Pour approfondir vos connaissances ou en savoir plus sur l'algorithme __minimax_
 
 3. __Vidéo Youtube__ : [Minimax Algorithm Explained](https://www.youtube.com/watch?v=l-hh51ncgDI&t=54s) par __Sebastian Lague__. Cette vidéo offre une explication visuelle de l'algorithme Minimax et de son fonctionnement.
 
-Je pense que ces ressources peuvent aller pour un début. Il y a tellement de ressources qu'on ne peut tout citer.
+__Je pense que ces ressources peuvent aller pour un début. Il y a tellement de ressources qu'on ne peut tout citer.__
 
 
