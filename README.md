@@ -30,6 +30,9 @@ Dans ce projet j'ai eu à utiliser des compétences en **POO**, et en **Tkinter*
 ```
 ## Comment ça fonctionne
 - __main.py__ héberge la __TicTacToe__ class qui se chargent de toute la partie logique du programme en ce qui concerne le choix des symboles des joeurs, le coup de l'ordinateur, l'identification du gagnant et autes et la __TicTacToeGUI__ class pour gérer la partie interface graphique où toutes les interactions sont visuels par l'utilisateur.
-- Dans notre classe __TicTacToe se trouvent la fonction __minmax__ qui se chargent de choisir le meilleur coup possible à jouer pour l'ordinateur en explorant l'arbre de jeu en profondeur d'où l'intelligence derrière.
+- Dans notre classe __TicTacToe__ se trouvent la fonction __minmax__ qui se chargent de choisir le meilleur coup possible à jouer pour l'ordinateur en explorant l'arbre de jeu en profondeur d'où l'intelligence derrière.
 ## Licence
 Ce projet est open source sous la [licence MIT](LICENSE)
+
+## Contribuant
+N'hésitez pas à contribuer à ce projet. Les améliorations suggérées, les rapports de bogues ou les demandes d'extraction sont toujours les bienvenus.
