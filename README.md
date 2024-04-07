@@ -1,5 +1,5 @@
 ## Implementation de l'algorithme Minimax dans un jeu
-Ce projet est le jeu du morpion  en __GUI__ où deux adversaires s'affrontent: un joueur principal et l'ordinateur. Il met en avant une sorte d'intelligence de l'ordinateur pour contrer les plans de l'adversaire et essayer de remporter la partie. Dans ce projet, l'accent est plutôt mis sur l'algorithme __minimax__ qui est utilisé par l'ordinateur pour jouer ces coups.
+Ce projet est le jeu du morpion  en __GUI__ où deux adversaires s'affrontent: un joueur principal et l'ordinateur. Il met l'accent sur une sorte d'intelligence de l'ordinateur pour contrer les plans de l'adversaire et essayer de remporter la partie. Dans ce projet, l'accent est plutôt mis sur l'algorithme __minimax__ qui est utilisé par l'ordinateur pour jouer ces coups.
 
 Dans ce projet j'ai eu à utiliser des compétences en **POO**, et en **Tkinter** pour l'interface graphique
 <!--├──
