@@ -36,5 +36,8 @@ N'hésitez pas à contribuer à ce projet. Les améliorations suggérées, les r
 ## Quelques ressources
 
 Pour approofondir vos connaissances ou en savoir plus sur l'algorithme __minimax__, voici quelques ressources:
-1. __Livre__ : ```Artificial Intelligence: A Modern Approach```  par __Stuart Russell__ et __Peter Norvig__. Ce livre couvre divers aspects de l'intelligence artificielle, y compris l'algorithme Minimax pour les jeux.
-  Lien vers le livre: [Artificial Intelligence: A Modern Approach](https://dl.ebooksworld.ir/books/Artificial.Intelligence.A.Modern.Approach.4th.Edition.Peter.Norvig.%20Stuart.Russell.Pearson.9780134610993.EBooksWorld.ir.pdf)
+1. __Livre__ : [Artificial Intelligence: A Modern Approach](https://dl.ebooksworld.ir/books/Artificial.Intelligence.A.Modern.Approach.4th.Edition.Peter.Norvig.%20Stuart.Russell.Pearson.9780134610993.EBooksWorld.ir.pdf)  par __Stuart Russell__ et __Peter Norvig__. Ce livre couvre divers aspects de l'intelligence artificielle, y compris l'algorithme Minimax pour les jeux.
+
+2. __Article__ : [Understanding the Minimax Algorithm](https://medium.com/towards-data-science/understanding-the-minimax-algorithm-726582e4f2c6) par Dorian Lazar. Cet article explique l'algorithme Minimax de manière détaillée avec des exemples et des illustrations.
+
+
