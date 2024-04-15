@@ -126,13 +126,13 @@ class TicTacToeGUI(tk.Tk):
                 self.update_message("Vous avez gagné")
                 self.disable_buttons()
                 self.after(2000, self.ask_play_again) #Délai de 2 secondes
-                self.ask_play_again()
+                #self.ask_play_again()
             elif any(' ' in row for row in self.game.contenu):
                 self.after(1000, self.ordinateur_joue)
             else:
                 self.update_message("Partie nulle")
                 self.after(2000, self.ask_play_again) #Délai de 2 secondes
-                self.ask_play_again()
+                #self.ask_play_again()
 
 
             # if any(' ' in row for row in self.game.contenu):
@@ -168,6 +168,7 @@ class TicTacToeGUI(tk.Tk):
             for j in range(3):
                 self.buttons[i][j].config(text="")
         self.update_message("")
+        self.player_turn = True  # Réinitialiser le tour du joueur à True
 
     def get_available_moves(self):
         return [i * 3 + j for i in range(3) for j in range(3) if self.game.contenu[i][j] == ' ']
